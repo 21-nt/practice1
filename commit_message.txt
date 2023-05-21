@@ -1,0 +1,8 @@
+feat: 3 Makefiles have been created and new features have been added
+
+Libraries are now easier to build.
+Also added the function to test.
+
+docs: README.md has been updated
+
+Added information on new features to README.
